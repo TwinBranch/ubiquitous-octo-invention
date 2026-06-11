@@ -33,7 +33,9 @@ Generic inputs:
 Generic calculation:
 
 available_notional = account_equity * leverage
+
 target_notional = available_notional * allocation_pct
+
 quantity = target_notional / entry_price
 
 
