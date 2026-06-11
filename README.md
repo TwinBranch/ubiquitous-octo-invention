@@ -124,8 +124,6 @@ This design reflects database administration concepts such as durable records, r
 
 ## Repository Scope
 
-This public repository is designed as a portfolio project for finance, data analyst, and database-adjacent roles.
-
 Included:
 
 - System architecture documentation
